@@ -47,9 +47,8 @@ A  ***Learner*** &  A ***Dreamer***.
 <center>
   <table>
     <tr>
-        <td><a href="[https://github.com/](https://github.com/Parvejkhanpj/Parvejkhanpj)">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=parvejkhanpj&repo=
-Parvejkhanpj
+        <td><a href="https://github.com/Parvejkhanpj/Blood_Buddy">
+  <img align="center" style="margin:0.5rem" src="https://github.com/Parvejkhanpj/Blood_Buddy
 &title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
 <td><a href="https://github.com/Parvejkhanpj/ReactTodo-App">
