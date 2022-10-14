@@ -34,7 +34,7 @@ A  ***Learner*** &  A ***Dreamer***.
 
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 >Languages and Tools:</h3>
 <br>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
