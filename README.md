@@ -2,16 +2,16 @@
 <h3 title="hehehe"> Hey 👋, I'm Parvej!</h3>
 
 <a href="https://www.linkedin.com/in/parvej-khan-330385151/">
-  <img align="left" alt="parvej's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="parvej's LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 <a href="https://www.instagram.com/kparvej761/">
-  <img align="left" alt="Parvej's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Parvej's Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
 <a href="https://www.facebook.com/digitalparvej">
-  <img align="left" alt="parvej's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="parvej's Facebook" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />
 </a>
 <a href="https://twitter.com/digitalparvej">
-  <img align="left" alt="parvej's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+  <img align="left" alt="parvej's Twitter" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
 
 
