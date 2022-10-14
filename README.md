@@ -41,8 +41,6 @@ A  ***Learner*** &  A ***Dreamer***.
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="JS" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-
-
   <img src="https://cdn-icons-png.flaticon.com/512/875/875209.png" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/98990/89711240-4172a200-d989-11ea-8d51-4aaf922fa407.png" alt="talwindcss" width="40" height="40"/> 
   </a> 
