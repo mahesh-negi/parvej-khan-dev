@@ -80,7 +80,7 @@ A  ***Learner*** &  A ***Dreamer***.
 </a></td>
     </tr>  
     <tr>
-      <td colspan="2"><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asfa-wani&theme=dark" alt="Asfa Wani" /></td>
+      <td colspan="2"><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Parvejkhanpj&theme=dark" alt="parvej khan" /></td>
     </tr>
   </table>
 </center>
