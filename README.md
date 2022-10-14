@@ -71,6 +71,9 @@ A  ***Learner*** &  A ***Dreamer***.
      <td><a href="https://github.com/Parvejkhanpj/shopingCart-with-Redux-Toolkit">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Parvejkhanpj&repo=shopingCart-with-Redux-Toolkit&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
+    <td><a href="https://github.com/Parvejkhanpj/TeslaUI">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Parvejkhanpj&repo=TeslaUI&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a></td>
     <tr>
     </tr>
    </table>
