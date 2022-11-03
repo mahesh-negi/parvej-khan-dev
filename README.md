@@ -100,7 +100,9 @@ A  ***Learner*** &  A ***Dreamer***.
   
   
   </table>
-  
+  <table>
       [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Parvejkhanpj&theme=react-dark	)](https://github.com/Parvejkhanpj/github-readme-activity-graph)
+  </table>
+  
 </center>
   
