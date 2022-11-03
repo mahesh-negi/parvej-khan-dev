@@ -95,11 +95,11 @@ A  ***Learner*** &  A ***Dreamer***.
     <tr>
       <td colspan="2"><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Parvejkhanpj&theme=dark" alt="parvej khan" /></td>
     </tr>
-    <tr>
-      <td>
+    
+     
               [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Parvejkhanpj&theme=react-dark	)](https://github.com/Parvejkhanpj/github-readme-activity-graph)
-      </td>
-    </tr>
+    
+    
 
   
   
