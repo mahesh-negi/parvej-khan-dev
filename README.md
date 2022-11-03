@@ -97,7 +97,7 @@ A  ***Learner*** &  A ***Dreamer***.
     </tr>
     
      
-[![PArvej's github activity graph](https://activity-graph.herokuapp.com/graph?username=Parvejkhanpj&theme=react-dark)](https://github.com/Parvejkhanpj/github-readme-activity-graph)
+[![PArvej's github activity graph](https://activity-graph.herokuapp.com/graph?username=Parvejkhanpj&theme=react-dark)](https://github.com/Parvejkhanpj?tab=repositories)
     
     
 
