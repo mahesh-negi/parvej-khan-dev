@@ -96,7 +96,8 @@ A  ***Learner*** &  A ***Dreamer***.
     </tr>
     
     <tr>
-   [![Parvej's github activity graph](https://activity-graph.herokuapp.com/graph?username=Parvejkhanpj)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   [![Parvej's github activity graph](https://activity-graph.herokuapp.com/graph?username=Parvejkhanpj)](https://github.com/Parvejkhanpj/github-readme-activity-graph)
+      [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Parvejkhanpj&theme=dracula)](https://github.com/Parvejkhanpj/github-readme-activity-graph)
     </tr>
   </table>
 </center>
