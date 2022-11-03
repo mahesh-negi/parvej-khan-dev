@@ -71,10 +71,11 @@ A  ***Learner*** &  A ***Dreamer***.
      <td><a href="https://github.com/Parvejkhanpj/shopingCart-with-Redux-Toolkit">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Parvejkhanpj&repo=shopingCart-with-Redux-Toolkit&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
-    <td><a href="https://github.com/Parvejkhanpj/TeslaUI">
+   
+    <tr>
+       <td><a href="https://github.com/Parvejkhanpj/TeslaUI">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Parvejkhanpj&repo=TeslaUI&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
-    <tr>
     </tr>
    </table>
    
@@ -92,6 +93,10 @@ A  ***Learner*** &  A ***Dreamer***.
     </tr>  
     <tr>
       <td colspan="2"><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Parvejkhanpj&theme=dark" alt="parvej khan" /></td>
+    </tr>
+    
+    <tr>
+      [![Parvej's github activity graph](https://activity-graph.herokuapp.com/graph?username=Parvejkhanpj&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
     </tr>
   </table>
 </center>
