@@ -29,7 +29,7 @@ A  ***Learner*** &  A ***Dreamer***.
 
 - 💻 MERN stack aspirant at [SOAL](https://www.schoolofacceleratedlearning.com/).
 - 💾 Backend Developer at [Pohu Labs, Hydrabad](https://www.schoolofacceleratedlearning.com/).
-- 🌱 I’m currently learning **JavaScript**.
+- 🌱 Master in **JavaScript,Express, Nodejs, MongoDb, AWS**.
 - ⚡ Fun fact **I love travelling**
 - 📫 Email me at [kparvej761@gmail.com](mailto:kparvej761@gmail.com.com).
 
