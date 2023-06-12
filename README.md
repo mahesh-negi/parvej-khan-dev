@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **DSA and Testing**
 
-- 👨‍💻 All of my projects are available at [www.developertom.xyz](www.parvejkhan.xyz)
+- 👨‍💻 All of my projects are available at [www.parvej.xyz](https://www.polywork.com/parvej_khan)
 
 - 📫 Send me an email on **parvej-dev@proton.me**
 
-- 📄 Know about my experiences [www.parvejkhan.com](www.parvejkhan.xyz)
+- 📄 Know about my experiences [www.parvejkhan.com](https://www.polywork.com/parvej_khan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
