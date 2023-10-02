@@ -14,6 +14,6 @@
 🔥 Let's Create Exceptional Web Experiences:
 I'm on a mission to make the web faster and more delightful for users. If you're looking for a developer who can transform your ideas into optimized, high-performing web applications, let's collaborate! Feel free to reach out for projects, discussions, or just a friendly chat about all things tech.
 
-🌐 Portfolio: [Your Portfolio Website]
+🌐 Portfolio: [parvejkhan.vercel.app]
 📫 Contact: [parvejkhan-dev@proton.me]
-🔗 LinkedIn: [Your LinkedIn Profile]
+🔗 LinkedIn: [http://linkedln.com/in/parvej09]
