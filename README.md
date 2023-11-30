@@ -1,6 +1,6 @@
-🚀 Full Stack MERN Developer | Web Performance Enthusiast 🚀
+## 🚀 Full Stack MERN Developer | Software Developer 🚀
 
-👋 Hi there! I'm [Parvej khan], a seasoned Full Stack Developer with over 2+ years of hands-on experience crafting web applications. I'm passionate about building robust, scalable, and lightning-fast solutions using the MERN (MongoDB, Express, React, Node.js) stack.
+👋 Hi there! I'm Parvej khan, a seasoned Full Stack Developer with over 2+ years of hands-on experience crafting web applications. I'm passionate about building robust, scalable, and lightning-fast solutions using the MERN (MongoDB, Express, React, Node.js) stack.
 
 ### 💡 What I Bring to the Table:
 - 🔧 Expertise in optimizing web applications for speed and efficiency.
