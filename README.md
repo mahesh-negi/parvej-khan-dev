@@ -11,7 +11,7 @@
 <!--  PROFILE HEADER INTRO (LHS)  -->
 Hello World! 👋
 
-I'm a versatile **Software Developer** with a passion for creating innovative solutions for both mobile and web platforms.
+I'm a versatile **Software Developer** with a passion for creating innovative solutions for web platforms.
 
 💻 With a strong foundation in JavaScript, I specialize in crafting seamless user experiences across various technologies.
 
